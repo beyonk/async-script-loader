@@ -20,5 +20,12 @@
     "node": "16.14.2"
   },
   "packageManager": "pnpm@10.33.0",
-  "repository": "https://github.com/beyonk/async-script-loader.git"
+  "repository": "https://github.com/beyonk/async-script-loader.git",
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": "25.9.0",
+      "onFail": "error"
+    }
+  }
 }
