@@ -18,5 +18,17 @@
   },
   "volta": {
     "node": "16.14.2"
+  },
+  "packageManager": "pnpm@11.0.0",
+  "repository": "https://github.com/beyonk/async-script-loader.git",
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": "24.14.1",
+      "onFail": "error"
+    }
+  },
+  "engines": {
+    "node": "24.14.1"
   }
 }
