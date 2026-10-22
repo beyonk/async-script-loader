@@ -16,9 +16,6 @@
     "./package.json": "./package.json",
     ".": "./index.js"
   },
-  "volta": {
-    "node": "16.14.2"
-  },
   "packageManager": "pnpm@12.9.1",
   "repository": "https://github.com/beyonk/async-script-loader.git",
   "devEngines": {
